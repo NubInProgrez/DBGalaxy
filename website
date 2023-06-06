@@ -5,7 +5,7 @@
   <style>
     /* Estilos CSS */
     body {
-      background-image: url('ruta/a/la/imagen.jpg');
+      background-image: url('godku_con_aura.png');
       background-size: cover;
       font-family: Arial, sans-serif;
       margin: 0;
