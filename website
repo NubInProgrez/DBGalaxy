@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Página Web</title>
+  <style>
+    /* Estilos CSS */
+    body {
+      background-image: url('ruta/a/la/imagen.jpg');
+      background-size: cover;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mi Página Web</h1>
+  </header>
+
+  <div class="container">
+    <h2>¡Bienvenido a mi página web!</h2>
+    <p>¡Aquí puedes agregar tu contenido y personalizar tu página según tus necesidades!</p>
+  </div>
+
+  <footer>
+    <p>Derechos de autor &copy; 2023 | Mi Página Web</p>
+  </footer>
+</body>
+</html>
